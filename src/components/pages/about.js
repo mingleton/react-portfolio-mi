@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePicture from "../../../static/assets/images/contact/contact.jpg";
+import profilePicture from "../../../static/assets/images/auth/login.jpg";
 
 export default function() {
     return (
