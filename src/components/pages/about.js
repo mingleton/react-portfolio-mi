@@ -6,7 +6,7 @@ export default function() {
         <div className= "content-page-wrapper">
         <div className = "left-column"
         style={{
-            background: "url(" +profilePicture + ") no-repeat",
+            background: "url(" + profilePicture + ") no-repeat",
             backgroundSize: "cover",
             backgroundPosition: "center" 
         }}
