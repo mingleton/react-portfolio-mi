@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import contactPicture from "../../../static/assets/images/auth/login.jpg"
+import contactPicture from "../../../static/assets/images/contact/contact.jpg"
 
 export default function() {
     return (
@@ -42,7 +42,7 @@ export default function() {
                     <FontAwesomeIcon icon="map-marked-alt" />
                 </div>
                 <div className = "text">
-                    902 N 50 E Provo, Utah
+                    360 S State St, Orem, UT
                 </div>
             </div>
             </div>
